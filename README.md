@@ -34,7 +34,7 @@ I included alot of preview images in the "Images" folder, feel free to check the
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/cmd-todo-app.git
+    git clone https://github.com/Sampise/CMD-Todo-App.git
     ```
 
 2. Navigate to the project directory:
